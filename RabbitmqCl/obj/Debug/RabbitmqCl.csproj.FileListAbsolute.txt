@@ -1,0 +1,15 @@
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitmqCl.exe.config
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitmqCl.exe
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitmqCl.pdb
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitMQ.Client.dll
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitMQ.Client.xml
+E:\newCode\pachong\pachong\RabbitmqCl\obj\Debug\RabbitmqCl.exe
+E:\newCode\pachong\pachong\RabbitmqCl\obj\Debug\RabbitmqCl.pdb
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitmqCom.dll
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\EasyNetQ.dll
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\RabbitmqCom.pdb
+E:\newCode\pachong\pachong\RabbitmqCl\bin\Debug\EasyNetQ.xml
+E:\newCode\pachong\pachong\RabbitmqCl\obj\Debug\RabbitmqCl.csprojResolveAssemblyReference.cache
+E:\newCode\pachong\pachong\RabbitMq\RabbitmqCl\bin\Debug\RabbitmqCl.exe.config
+E:\newCode\pachong\pachong\RabbitMq\RabbitmqCl\obj\Debug\RabbitmqCl.exe
+E:\newCode\pachong\pachong\RabbitMq\RabbitmqCl\obj\Debug\RabbitmqCl.pdb
